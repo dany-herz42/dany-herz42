@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![dany-herz42 GitHub stats](https://github-readme-stats.vercel.app/api?username=dany-herz42&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/dany-herz42/github-readme-stats)
+[![dany-herz42 GitHub stats](https://github-readme-stats.vercel.app/api?username=dany-herz42&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/dany-herz42/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dany-herz42&theme=gruvbox)](https://github.com/dany-herz42/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dany-herz42&theme=onedark)](https://github.com/dany-herz42/github-readme-stats)
 
 <!--
 **dany-herz42/dany-herz42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
