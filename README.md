@@ -1,7 +1,7 @@
 
 <h2></h2>
 <h1 align="center">Hi there 👋 <br/>I´m Daniel Hernandez Ascencio <br/><p>@dany-herz42</p></h1>
-<h3>About me</h3>
+<h3 align="center">About me</h3>
 
 <div align="center">
 🔭 I'm currently looking for a job as a web developer <br/>
@@ -10,10 +10,12 @@
 ⚡ Fun fact: I really like soccer :soccer: and learning new programming languages :computer: 
 </div>
 
-<h3>Skills</h3>
+<br />
+
+<h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript--v1.png"/></a>
   <a href="https://www.ruby-lang.org/es/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/></a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -30,7 +32,8 @@
   <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql--v1.png"/></a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/my-sql--v1.png"/></a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb--v1.png"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap--v1.png"/></a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap--v1.png"/></a>
 </p>
 
 [![dany-herz42 GitHub stats](https://github-readme-stats.vercel.app/api?username=dany-herz42&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/dany-herz42/github-readme-stats)
+
