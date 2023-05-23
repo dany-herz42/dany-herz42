@@ -35,5 +35,3 @@
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap--v1.png"/></a>
 </p>
 
-[![dany-herz42 GitHub stats](https://github-readme-stats.vercel.app/api?username=dany-herz42&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/dany-herz42/github-readme-stats)
-
