@@ -4,7 +4,7 @@
 <h3 align="center">About me</h3>
 
 <div align="center">
-🔭 I'm currently looking for a job as a web developer <br/>
+🔭 I'm currently a software engineer at Logra.io <br/>
 🌱 I’m currently learning TypeScript <br/>
 📫 How to reach me: danyherzdev@gmail.com <br/>
 ⚡ Fun fact: I really like soccer :soccer: and learning new programming languages :computer: 
