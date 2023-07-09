@@ -5,7 +5,7 @@
 
 <div align="center">
 🔭 I'm currently a software engineer at Logra.io <br/>
-🌱 I’m currently learning TypeScript <br/>
+🌱 I’m currently learning Django and Next.js <br/>
 📫 How to reach me: danyherzdev@gmail.com <br/>
 ⚡ Fun fact: I really like soccer :soccer: and learning new programming languages :computer: 
 </div>
